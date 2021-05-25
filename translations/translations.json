@@ -1,0 +1,202 @@
+{
+  "WELCOME": {
+    "de": "Willkommen bei Lunes!",
+    "en": "Welcome to Lunes!"
+  },
+  "LEARNTO": {
+    "de": "Lerne Vokabeln für deinen Beruf",
+    "en": "Learn German Vocabulary for your profession"
+  },
+  "AREA": {
+    "de": "Bereich",
+    "en": "Area"
+  },
+  "MODULE": {
+    "de": "Modul",
+    "en": "Module"
+  },
+  "AREAS": {
+    "de": "Bereiche",
+    "en": "Areas"
+  },
+  "WORD": {
+    "de": "Wort",
+    "en": "Word"
+  },
+  "WORDS": {
+    "de": "Wörter",
+    "en": "Words"
+  },
+  "MODULES": {
+    "de": "Module",
+    "en": "Modules"
+  },
+  "AREA_OVERVIEW": {
+    "de": "Übersicht der Bereiche",
+    "en": "Area Overview"
+  },
+  "EXERCISES": {
+    "de": "Übungen",
+    "en": "Exercises"
+  },
+  "EXERCISE_OVERVIEW": {
+    "de": "Übersicht der Übungen",
+    "en": "Exercise Overview"
+  },
+  "WORDLIST": {
+    "de": "Wortliste",
+    "en": "Wordlist"
+  },
+  "WORDLIST_DESC": {
+    "de": "Alle Wörter",
+    "en": "See all words in this module"
+  },
+  "SINGLECHOICE": {
+    "de": "Wort auswählen",
+    "en": "Choose Word"
+  },
+  "SINGLECHOICE_DESC": {
+    "de": "Wähle das richtige Wort",
+    "en": "Choose the right word"
+  },
+  "ARTICLEEXERCISE": {
+    "de": "Artikel üben",
+    "en": "Write Article"
+  },
+  "ARTICLEEXERCISE_DESC": {
+    "de": "Wähle den richtigen Artikel",
+    "en": "Choose the right article"
+  },
+  "VOCABTRAINER": {
+    "de": "Wort schreiben",
+    "en": "Write Word"
+  },
+  "VOCABTRAINER_DESC": {
+    "de": "Schreibe Wörter mit Artikel",
+    "en": "Write the words with articles"
+  },
+  "ENTERWORD": {
+    "de": "Wort mit Artikel eingeben",
+    "en": "Enter word with article"
+  },
+  "CHECKENTRY": {
+    "de": "EINGABE ÜBERPRÜFEN",
+    "en": "CHECK ENTRY"
+  },
+  "GIVEUP": {
+    "de": "LÖSUNG ANZEIGEN",
+    "en": "I GIVE UP!"
+  },
+  "TRYLATER": {
+    "de": "SPÄTER VERSUCHEN",
+    "en": "TRY LATER"
+  },
+  "TRYAGAIN": {
+    "de": "Neuer Versuch",
+    "en": "Try Again"
+  },
+  "XOFX": {
+    "de": "von",
+    "en": "of"
+  },
+  "ENDSESSION": {
+    "de": "Übung beenden",
+    "en": "End Session"
+  },
+  "FORGETSTH": {
+    "de": "Ups, deine Eingabe ist nicht vollständig. Füge einen Artikel ein.",
+    "en": "Ups, you forgot something. You have to add an article to continue"
+  },
+  "WRONGANSWER": {
+    "de": "Schade, deine Eingabe ist falsch. Die richtige Antwort ist:",
+    "en": "What a pity! Your entry is incorrect, the correct answer is: "
+  },
+  "ALMOSTCORRECT": {
+    "de": "Deine Eingabe [PLACEHOLDER] ist fast richtig. Überprüfe Groß- und Kleinschreibung.",
+    "en": "Your entry [PLACEHOLDER] is almost correct. Check for upper and lower case."
+  },
+  "CORRECT": {
+    "de": "Toll, weiter so! Deine Eingabe ist richtig.",
+    "en": "Great, keep it up! The word you filled in is correct."
+  },
+  "NEXTWORD": {
+    "de": "NÄCHSTES WORT",
+    "en": "NEXT WORD"
+  },
+  "FINISHTEXT_1": {
+    "de": "Toll, weiter so! Du hast die Übung sehr gut gemeistert.",
+    "en": "Keep it up! You have mastered the exercise very well."
+  },
+  "FINISHTEXT_2": {
+    "de": "Übung macht den Meister, versuche es noch einmal!",
+    "en": "You're getting there. Please retry!"
+  },
+  "FINISHTEXT_3": {
+    "de": "Nicht aufgeben! Versuche es noch einmal!",
+    "en": "You still have some trouble with the basics, please retry!"
+  },
+  "CHECKRESULTS": {
+    "de": "",
+    "en": "CHECK MY RESULTS"
+  },
+  "REPEATEXERCISE": {
+    "de": "ÜBUNG WIEDERHOLEN",
+    "en": "REPEAT EXERCISE"
+  },
+  "REPEATWHOLEXERCISE": {
+    "de": "GESAMTE ÜBUNG WIEDERHOLEN",
+    "en": "REPEAT WHOLE EXERCISE"
+  },
+  "REALLYENDSESSION": {
+    "de": "Möchtest du diese Übung wirklich beenden?",
+    "en": "Do you really want to end this session?"
+  },
+  "CONTINUE": {
+    "de": "Weiter machen",
+    "en": "CONTINUE"
+  },
+  "END": {
+    "de": "Beenden",
+    "en": "END"
+  },
+  "FINISHEXERCISE": {
+    "de": "ÜBUNG BEENDEN",
+    "en": "FINISH EXERCISE"
+  },
+  "RESULTS_OVERVIEW": {
+    "de": "Ergebnis-Übersicht",
+    "en": "Results Overview"
+  },
+  "CORRECTENTRIES": {
+    "de": "Richtige Eingaben",
+    "en": "Correct entries"
+  },
+  "CORRECTENTRIES_VIEW": {
+    "de": "RICHTIGE EINGABEN ANSCHAUEN",
+    "en": "VIEW CORRECT ENTRIES"
+  },
+  "ALMCORRECTENTRIES": {
+    "de": "Fast richtige Eingaben",
+    "en": "Almost correct entries"
+  },
+  "ALMCORRECTENTRIES_VIEW": {
+    "de": "FAST RICHTIGE EINGABEN ANSCHAUEN",
+    "en": "VIEW ALMOST CORRECT ENTRIES"
+  },
+  "INCORRECTENTRIES": {
+    "de": "Falsche Eingaben",
+    "en": "Incorrect entries"
+  },
+  "INCORRECTENTRIES_VIEW": {
+    "de": "FALSCHE EINGABEN ANSCHAUEN",
+    "en": "VIEW INCORRECT ENTRIES"
+  },
+  "SHARETEXT": {
+    "de": "Mein Ergebnis für das Modul \"[PLACEHOLDER]\" in Lunes: A von B Wörtern richtig. Und du? www.lunes.app",
+    "en": "My result for module \"[PLACEHOLDER]\" in Lunes: A of B words correct. And you? www.lunes.app"
+  },
+  "SHAREBUTTON": {
+    "de": "Teile dein Ergebnis mit deinen Freunden!",
+    "en": "Share your result with your friends!"
+  }
+}
